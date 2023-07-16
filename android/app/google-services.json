@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "851788190219",
+    "project_id": "flutterfinance-a203d",
+    "storage_bucket": "flutterfinance-a203d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851788190219:android:803dadc5522af3dffd2d0e",
+        "android_client_info": {
+          "package_name": "com.example.finance_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851788190219-mer1a7t76lqijfp6eej5kuho5fpd6ics.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0n9rqlh-HKIA3-qHDnOJfZ0Q_IdzsP38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851788190219-mer1a7t76lqijfp6eej5kuho5fpd6ics.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851788190219-fng02isn0rnt48q79l8g9f7j6n2cui4g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.financeFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851788190219:android:ce4ba1f2de7817d8fd2d0e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_finance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851788190219-mer1a7t76lqijfp6eej5kuho5fpd6ics.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0n9rqlh-HKIA3-qHDnOJfZ0Q_IdzsP38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851788190219-mer1a7t76lqijfp6eej5kuho5fpd6ics.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851788190219-fng02isn0rnt48q79l8g9f7j6n2cui4g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.financeFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
